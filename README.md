@@ -21,16 +21,16 @@ LynkHub é um aplicativo web desenvolvido com Next.js e Firebase que permite aos
 ## Como Executar o Projeto
 
 1. Clone o repositório:
-        ```bash
+        ```
         git clone https://github.com/seu-usuario/lynkhub.git
         ```
 2. Instale as dependências:
-        ```bash
+        ```
         cd lynkhub
         npm install
         ```
 3. Configure as variáveis de ambiente no arquivo `.env.local`.
-        ```bash
+        ```
         NEXT_PUBLIC_FIREBASE_API_KEY=your_api_key
         NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_auth_domain
         NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_project_id
@@ -40,7 +40,7 @@ LynkHub é um aplicativo web desenvolvido com Next.js e Firebase que permite aos
         ```
 
 4. Execute o servidor de desenvolvimento:
-        ```bash
+        ```
         npm run dev
         ```
 
